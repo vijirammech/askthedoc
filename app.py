@@ -10,7 +10,7 @@ Date: 2026
 
 import streamlit as st
 from langchain_openai import OpenAI
-from langchain.text_splitter import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA
