@@ -1,0 +1,35 @@
+State of the Union Address - Sample Document
+
+In recent months, large language models (LLMs) have attracted widespread attention as they open up new opportunities, particularly for developers creating chatbots, personal assistants, and content generation tools. These models represent a significant advancement in artificial intelligence and machine learning technology.
+
+In the previous LangChain tutorials, you learned about three of the six key modules of LangChain: model I/O (LLM model and prompt templates), data connection (document loader and text splitting), and chains (summarize chain). These foundational concepts are critical to understanding how modern AI applications work.
+
+This year, our administration has prioritized several key initiatives:
+
+Economic Growth and Job Creation
+The American economy has shown remarkable resilience. We have created millions of new jobs, bringing unemployment to historic lows. We are committed to supporting workers transitioning to roles in emerging technology sectors, particularly in artificial intelligence and renewable energy.
+
+Infrastructure Investment
+We passed the landmark Infrastructure Act, the largest investment in American infrastructure since Eisenhower's Interstate Highway System. This includes funding for broadband internet, electric vehicle charging stations, and advanced manufacturing facilities.
+
+Technology and AI
+Recognizing the transformative potential of artificial intelligence, we have allocated substantial resources to AI research and development. We are investing in education and training programs to prepare the workforce for the AI era. We are also committed to ensuring that AI development proceeds safely and responsibly, with appropriate oversight and ethical guidelines.
+
+Support for Ketanji Brown Jackson
+I am proud to announce the confirmation of Ketanji Brown Jackson as the newest member of the Supreme Court. Justice Jackson's legal expertise, integrity, and commitment to justice make her an exceptional addition to the bench. She represents the progress we are making toward a more representative judiciary and a more inclusive democracy.
+
+Clean Energy and Climate Action
+We are committed to combating climate change through investment in clean energy technologies. Solar and wind power capacity has doubled in the past three years. We are supporting the transition of coal-dependent communities to create jobs in renewable energy sectors. Our goal is to achieve net-zero emissions by 2050.
+
+Education and Workforce Development
+We are modernizing our education system to prepare students for careers in technology, healthcare, and other high-demand fields. We have invested in early childhood education, K-12 science and math education, and workforce training programs. Community colleges are receiving record funding to support skills training aligned with employer needs.
+
+Healthcare and Pandemic Recovery
+We continue to strengthen our healthcare system and ensure affordable access to quality care. We have extended telehealth services to underserved communities. We are investing in mental health services and addressing the opioid crisis with a comprehensive, compassionate approach.
+
+Democracy and Unity
+Ultimately, our success depends on preserving and strengthening our democratic institutions. We must work together across party lines to address the challenges facing our nation. Democracy is not guaranteed; it requires the active participation and commitment of all citizens.
+
+In closing, the future is bright with possibility. With investment in education, technology, and innovation, with support for our workers and families, and with commitment to democratic values, we will build a stronger, more prosperous nation for all Americans. The best is yet to come.
+
+Thank you, and may God bless America.
