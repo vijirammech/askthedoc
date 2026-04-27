@@ -103,4 +103,4 @@ with st.form('myform', clear_on_submit=True):
 if len(result):
     st.success('✅ Answer generated!')
     st.write(result[0])
-    st.info('💡 Tip: The API key is not stored. Upload a new document to ask another ques
+    st.info('💡 Tip: The API key is not stored. Upload a new document to ask another question.')
